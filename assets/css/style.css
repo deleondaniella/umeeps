@@ -6,6 +6,10 @@
 	/*overflow: hidden;*/
 }
 
+#form {
+  height: 80vh;
+}
+
 #container {
 	margin: 0;
 	padding: 0;
