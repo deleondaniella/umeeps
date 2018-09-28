@@ -118,6 +118,7 @@ i {
 .footer {
   margin-left: 15px;
   margin-right: 10px;
+  overflow: hidden;
 }
 
 #about-text {
